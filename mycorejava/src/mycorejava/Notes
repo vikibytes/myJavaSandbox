@@ -1,0 +1,6 @@
+Test Codes:
+1. Method overriding
+    Test code:   int result1 = exOverriding.minValue(55, 45);
+                 double result2 = (exOverriding.minValue(23.7, 56.4));
+                 System.out.println(result1);
+                 System.out.println(result2);
